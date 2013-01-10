@@ -1,0 +1,12 @@
+.network_frontpage_opt {
+    border: 1px solid #DDD;
+    background-color: #EEE;
+    padding: 10px;
+    margin: 0px 15px 0 5px;
+}
+.network_frontpage_opt h3{
+    margin-top: 0;
+}
+#network-frontpage-tag {
+    margin: 0px 15px 20px 5px;
+}
